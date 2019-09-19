@@ -1,8 +1,3 @@
-//	 Katherine Seng
-//	 CECS 282-07
-//	 Prog 1 - Solitaire Prime
-//	 September 18, 2019
-
 #ifndef DECK_H
 #define DECK_H
 #include "Card.h"
