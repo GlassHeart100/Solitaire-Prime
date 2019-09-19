@@ -1,8 +1,3 @@
-//	 Katherine Seng
-//	 CECS 282-07
-//	 Prog 1 - Solitaire Prime
-//	 September 18, 2019
-
 # include "Card.h"
 # include <iostream>
 using namespace std;
